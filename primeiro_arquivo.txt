@@ -1,0 +1,24 @@
+Git é um sistema de controle. Onde nele, é possivel observar a crição de historico
+com versões das alterações realizadas no código fonte de projetos desenvolvidos por você ou outras pessoas.
+
+Seus principais comandos são:
+1- $ git init
+Serve para que os arquivos de uma pasta possam ser versionados pelo Git.
+
+2- $ rm 0 rf .git
+Serve para apagar arquivos com informações no repositorio que criamos com o $ git init.
+
+3- $ git status
+Usado para ver todos os arquivos que foram modificados desde seu ultimo commit.
+
+4- $ git commit -m 
+Utilizado para fazer comentarios sobre mudanças feitas no codigo.
+
+5- $ git revert HEAD
+Para desfazer um commit
+
+6- $ git commit --amend
+Permite renomear a mensagem do último commit feito
+
+7- $ Git branche
+Para creiar um branche
